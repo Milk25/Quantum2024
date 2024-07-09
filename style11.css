@@ -1,0 +1,28 @@
+body {
+    background-image: url("image8.jpeg");
+    background-repeat: no-repeat;
+    background-size:  3000px auto;
+    background-position: center;
+    margin: 240px 0 0 0; 
+    scroll-behavior: smooth;
+}
+
+h1 {
+    display:flex;
+    margin: 0 0 0 0;
+    font-size: 40px;
+    color:aliceblue;
+    text-align: start;
+    justify-content:flex-start;
+}
+
+p {
+    text-align: center;
+    font-size: 23px;
+    color:aliceblue;
+    padding: 430px 0 0 0;
+}
+
+ul {
+    list-style-type: none;
+}

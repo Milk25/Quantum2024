@@ -1,0 +1,96 @@
+/* @import url("https://www.shutterstock.com/shutterstock/photos/1577682832/display_1500/stock-photo-blurred-bookshelf-many-old-books-in-a-book-shop-or-library-1577682832.jpg"); */
+
+.type {
+    margin: 700px;
+
+}
+
+.name {
+    text-align: center;
+    font-size: 153px;
+}
+
+p{
+    font-size: 23px;
+}
+
+.pic {
+    margin: 100px 650px 23px 650px;
+    height: 500px;
+    width: 600px;
+}
+
+li {
+    text-decoration:none;
+    text-align: center;
+    list-style-type:none;
+    
+}
+
+body {
+    background-color: rgb(11, 11, 11);
+    color: goldenrod;
+    background-image: url("Videos/VIDEO-2024-06-25-22-37-50.mp4");
+    /* background-repeat: no-repeat; */
+    /* background-size: contain; */
+    width: 100vw;
+    height: 100vh;
+    /* background: url('https://i.imgur.com/vHHl8Xk.jpg'); */
+    background-size: auto;
+    scrollbar-color: goldenrod;
+}
+
+h1 {
+    text-align: center;
+    font-size: 123px;
+}
+
+.all-caps2 {
+    text-align: center;
+    font-size: 80px;
+}
+
+.numbers {
+    text-align: center;
+    margin: 100px 0px 300px 0px;
+    padding: -900px;
+    scrollbar-color: goldenrod;
+}
+
+.number {
+    text-align: center;
+    margin: 200px 0px 300px 0px;
+    /* cursor: all-scroll; */
+    /* overflow: scroll; */
+}
+  
+.arrange {
+    font-size: 29px; 
+    color: goldenrod;
+    cursor:context-menu;
+    /* border-style: 9px solid rgb(178, 212, 12); */
+    /* overflow: scroll; */
+    scrollbar-color: goldenrod;
+    scrollbar-base-color: blue;
+}
+
+.arrange::before{
+    color: rgb(130, 96, 89)
+}
+
+/* #scoll {
+    /* overflowr-block:visible; */
+    /* border-style: 4px dotted black; */
+    height: 600px;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+    background-color: goldenrod;
+    margin: 100px
+}
+
+/* #frame{
+    background-position-x: 100%;
+    background-position-y: 100%;
+    background-size: 100%;
+    margin: -400px;
+} */ */

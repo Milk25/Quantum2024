@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(200, 234, 146);
+}
+
+div h1{
+    font-size: 145px;
+    text-align: center;
+    color: goldenrod;
+}
+
+li{
+    text-align: center;
+    font-size: 15px;
+    color: black;
+}
+
+a:hover { background-color: #f6f6ef; }
+
+ul {
+    list-style-type: none;
+}
+
+.vids {
+    /* box-sizing: border-box;
+    position: relative; */
+    text-align: center;
+}
+
+.content {
+    text-align: center;
+    font-size: 23px;
+}
